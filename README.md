@@ -1,5 +1,4 @@
 # Data Dictionary
-## Feature	- Description -	DataType
 ## Employee Dataset
 
 This dataset contains detailed information about employees, including personal details, employment status, performance scores, and more.
